@@ -12,6 +12,7 @@ Standard NFT ownership and transfer functions.
 A secure owner-only minting mechanism.
 
 A multi-mint (airdrop) feature for large batch distributions.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-20 01-09-59" src="https://github.com/user-attachments/assets/237447ae-8759-46e7-8185-827f009eb31c" />
 
 ⭐ Features
 
